@@ -1,6 +1,6 @@
 # cyber_security
 ## SYLLABUS :-[MU SYLLABUS](https://github.com/adab786/cyber_security/blob/main/Honours-Minor%20Degree%20Program-%20Cyber%20Security%20Syllabus%20(1).pdf)
-##Question paper
+## Question paper
 - - [tt1](https://github.com/adab786/cyber_security/blob/main/WhatsApp%20Image%202022-12-06%20at%208.52.53%20PM.jpeg)
 - - [tt2](https://github.com/adab786/cyber_security/blob/main/WhatsApp%20Image%202022-12-04%20at%207.49.11%20PM.jpeg)
 ### some important question with ans
