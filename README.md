@@ -31,4 +31,6 @@
   - [Web Security Considerations](https://www.geeksforgeeks.org/web-security-considerations/)
   - [What are Cookies?](https://www.kaspersky.com/resource-center/definitions/cookies)
   - [single sign-on (SSO)](https://www.techtarget.com/searchsecurity/definition/single-sign-on)
-  - [WEB BUG USAGE](https://github.com/adab786/cyber_security/blob/main/WhatsApp%20Image%202022-12-06%20at%2011.38.28%20PM.jpeg)
+  - [WEB BUG USAGE](https://github.com/adab786/cyber_security/blob/main/WhatsApp%20Image%202022-12-06%20at%2011.38.28%20PM.jpeg) 
+- 5 Elements of  Hardware  Security
+  - [pdf link ](https://github.com/adab786/cyber_security/blob/main/CyberSecurity_Hardware%20Security-1%20(1)%20(1).pdf)
