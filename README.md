@@ -11,7 +11,7 @@
 - 1.Introduction to Ethical Hacking
   - [TCP/IP in Computer Networking](https://www.geeksforgeeks.org/tcp-ip-in-computer-networking/)
   - [Steps of ethical hacking](https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_process.htm)
-> MAXIMUM PART WILL BE COVERED IN COMPUTER NETWORK ALTHOUGH I HAVE MENTIONED SOME IMPORTANT TOPICS
+> MAXIMUM PART OF THIS CHAP WILL BE COVERED IN COMPUTER NETWORK ALTHOUGH I HAVE MENTIONED SOME IMPORTANT TOPICS
 - 2.Introduction to Cryptography
   - [Difference between Private key and Public key](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)
   - [Key Exchange Protocols](https://www.ibm.com/docs/en/zos/2.3.0?topic=communication-key-exchange-protocol)
