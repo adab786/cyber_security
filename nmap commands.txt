@@ -1,0 +1,73 @@
+**Nmap Commands For Beginners**
+
+Nmap: One of the best network mapper tool. Some people find it hard to access it. So I have decided to post "Top Most Commands of Nmap". Here we go but before let me tell you (Beginners) what can Nmap do & why as a security person you should use it?! 
+1. No. of PC's & devices (their IP address) connected to your network.
+2.  OS detection 
+3. Search for unauthorized access to your device or network 
+4. Finding out if system is infected or not
+5. Finding out open ports
+6. Restrict such vulnerable device from your own network
+
+NOTE: Port scanning may be illegal in some jurisdictions so setup your own lab to test.
+
+For those who deal with Command line scan & rest can use ZENMAP GUI.
+
+1. Scanning a Single IP (or you can enter the host name too..)
+Command:
+               nmap 192.168.0.100
+
+               nmap -v 192.168.0.100
+
+// -v for more info
+
+2. Scan range of IP addresses
+Command:
+               nmap 192.168.0.100-254
+
+//this will scan the full range between 192.168.0.100 to 192.168.0.254
+
+             nmap 192.168.0.*
+//You can scan a range of IP address using a wildcard
+
+3. Exclude Host
+Command:
+              nmap 192.168.0.0/24 --exclude 192.168.0.105
+// (0/24 is used when you scan the network on subnet basis)
+
+4. OS & Version Detection
+Command:
+               nmap -A -v 192.168.0.105 
+
+5. Finding out if protected by firewall
+Command:
+               nmap -sA 192.168.0.1
+               nmap -PN 192.168.0.105
+
+6.Scan a network and find out which servers and devices are up and running
+Command:
+               nmap -sP 192.168.0.0/24
+
+7. Show open ports
+Command:
+              nmap --open 192.168.0.1
+
+8. Show all packets sent & received
+Command:
+               nmap --packet-trace 192.168.0.1
+
+9.Detect remote operating system
+Command:
+               nmap -v -O --osscan-guess 192.168.1.105
+
+10. Detect remote services (server / daemon) version numbers
+Command:
+              nmap -sV 192.168.1.115
+
+11. Scan firewall for security weakness
+Command:
+              nmap -sN 192.168.1.157
+//null scan
+              nmap -sF 192.168.1.157
+//fin scan
+              nmap -sX 192.168.1.125
+//xmas scan
