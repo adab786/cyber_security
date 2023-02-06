@@ -1,4 +1,5 @@
 # cyber_security
+## some precautions from my side before accessing any tool(https://info4mhtcet.blogspot.com/2023/02/before-accessing-any-tool-in.html) 
 ## SYLLABUS :-[MU SYLLABUS](https://github.com/adab786/cyber_security/blob/main/Honours-Minor%20Degree%20Program-%20Cyber%20Security%20Syllabus%20(1).pdf)
 ## Question paper
 - - [tt1](https://github.com/adab786/cyber_security/blob/main/WhatsApp%20Image%202022-12-06%20at%208.52.53%20PM.jpeg)
